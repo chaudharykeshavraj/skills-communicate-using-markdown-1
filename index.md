@@ -8,13 +8,25 @@
 <br/>
 <br/>
 
+#### Code
 ```
 $ git init
 Initialized empty Git reposistory in /User/skills/Projects/recipe-repository/.git/
 ```
 <br/>
-<br/>
 
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+<br/>
+<br/>
+
+#### Task Lists
+- [x] Fist Task
+- [x] Second Task
+- [ ] Third Task
+
+<br/>
+<br/>
+
